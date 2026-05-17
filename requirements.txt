@@ -1,0 +1,9 @@
+# SchemaPilot - No external dependencies required!
+# This project is designed to run with Python 3.8+ standard library only
+
+# Optional development dependencies (uncomment if needed for development)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
